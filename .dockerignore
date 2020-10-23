@@ -1,9 +1,7 @@
 .env*
 .git
 .gitignore
-.nuxt
 app.json
 Dockerfile
 README.md
-dist/
 docs/
